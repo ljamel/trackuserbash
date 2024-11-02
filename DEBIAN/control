@@ -1,0 +1,9 @@
+Package:monpackage
+Version:1.1
+Section:utils
+Priority:optional
+Architecture:all
+esential:no
+Maintainer: Votre Nom <email@example.com>
+Description: Description de votre package
+ Une description plus détaillée peut aller ici.
