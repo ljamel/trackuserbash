@@ -8,7 +8,7 @@ git clone https://github.com/ljamel/trackuserbash.git
 # compilation
 dpkg-deb --build trackuserbash
 
-#installation
+# installation
 dpkg -i trackuserbash
 
 # exécution 
